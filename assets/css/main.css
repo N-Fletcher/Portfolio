@@ -3783,3 +3783,7 @@ input, select, textarea {
 			}
 
 		}
+#proj-img {
+	max-height: 20px;
+	max-width: 20px
+}
